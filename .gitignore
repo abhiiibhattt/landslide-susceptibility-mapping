@@ -1,0 +1,42 @@
+# --------------------
+# Data (large files)
+# --------------------
+data/
+datasets/
+*.tif
+*.shp
+*.dbf
+*.shx
+*.prj
+*.cpg
+*.vrt
+*.zip
+
+# --------------------
+# Models & outputs
+# --------------------
+results/models/
+maps/probability/
+maps/quantile/
+maps/jenks/
+
+# --------------------
+# Python
+# --------------------
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# --------------------
+# Environment
+# --------------------
+.venv/
+env/
+venv/
+
+# --------------------
+# OS
+# --------------------
+.DS_Store
+Thumbs.db
