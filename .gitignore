@@ -57,7 +57,7 @@ maps/quantile/
 maps/jenks/
 
 # ========================
-# Large outputs
+# Derived outputs
 # ========================
 results/maps/
 results/rasters/
