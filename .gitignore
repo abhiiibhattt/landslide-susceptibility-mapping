@@ -40,3 +40,24 @@ venv/
 # --------------------
 .DS_Store
 Thumbs.db
+
+# ========================
+# GIS Raster Data
+# ========================
+*.tif
+*.tif.ovr
+*.tif.aux.xml
+*.tfw
+*.img
+*.vrt
+
+maps/rasters/
+maps/probability/
+maps/quantile/
+maps/jenks/
+
+# ========================
+# Large outputs
+# ========================
+results/maps/
+results/rasters/
