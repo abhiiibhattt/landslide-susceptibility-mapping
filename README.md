@@ -39,8 +39,8 @@ The final output is a set of **GIS-ready susceptibility maps** suitable for:
 
 ## 🗂️ Project Structure
 
-'''text
-landslide_project/
+```text
+textlandslide_project/
 │
 ├── data/
 │   ├── raw/                # Training CSV + original raster zip (NOT tracked)
@@ -65,7 +65,7 @@ landslide_project/
 │
 ├── README.md
 └── requirements.txt
-'''
+```
 
 > ⚠️ **Note:**  
 > Large raster files and raw datasets are excluded via `.gitignore` to keep the repository lightweight.
