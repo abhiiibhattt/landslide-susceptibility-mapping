@@ -187,3 +187,21 @@ These outputs can be visualized in:
    ```bash
    pip install -r requirements.txt
    ⚠️ GIS dependencies (rasterio, geopandas) may require system-level libraries on some platforms. Refer to their official installation guides if needed.
+
+---
+
+## 👨‍💻 Author
+
+Abhinava Bhat
+
+* GitHub: https://github.com/abhiiibhattt
+* Portfolio: https://abhiiibhattt.github.io/portfolio/
+
+---
+
+## 📌 License
+
+This project is intended for educational, research, and portfolio purposes.
+
+© 2026 Abhinava Bhat P V. All rights reserved.
+
