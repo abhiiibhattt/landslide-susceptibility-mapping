@@ -192,7 +192,7 @@ These outputs can be visualized in:
 
 ## 👨‍💻 Author
 
-Abhinava Bhat
+Abhinava Bhat P V
 
 * GitHub: https://github.com/abhiiibhattt
 * Portfolio: https://abhiiibhattt.github.io/portfolio/
